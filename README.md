@@ -74,4 +74,4 @@ idf.py -p /dev/ttyUSB0 flash && idf.py -p /dev/ttyUSB0 monitor
 ```
 
 Output: 
-![](https://github.com/gotangle/esp32-dht11/blob/master/images/result.PNG)
+![](https://github.com/gotangle/esp32-dht22/blob/master/images/result.PNG)
